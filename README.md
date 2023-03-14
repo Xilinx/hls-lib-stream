@@ -6,7 +6,7 @@ Header file          | Description
 ---------------------|------------------
 hls_stream.h | Class hls::stream to model the stream connecting two concurrent processes
 hls_np_channel.h | hls::split and hls::merge to model the stream connecting multiple concurrent processes by one-to-N or N-to-one style
-hls_streamofblocks | Class hls::stream_of_blocks to model the stream of array-like objects
+hls_streamofblocks.h | Class hls::stream_of_blocks to model the stream of array-like objects
 
 ## Compatibility
 
