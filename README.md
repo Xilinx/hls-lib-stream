@@ -18,8 +18,9 @@ Include the `hls_stream.h`, `hls_np_channel.h` or `hls_streamofblocks.h` in C++ 
 
 ## License Info
 
-(c) Copyright 2011-2022 Xilinx, Inc.
-All Rights Reserved.
+(c) Copyright 2011-2022 Xilinx, Inc. All Rights Reserved.
+
+(c) Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
 
 Licensed to the Apache Software Foundation (ASF) under one
 or more contributor license agreements.  See the NOTICE file
